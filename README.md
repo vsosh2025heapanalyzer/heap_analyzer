@@ -19,4 +19,5 @@ LD_PRELOAD‑библиотека, перехватывающая `malloc`/`call
 
 ## Быстрый старт
 ```bash
+export MEMCHECK_MAX_ALLOCS=10000   # optional
 LD_PRELOAD=$PWD/analyzer.so ./your_app
