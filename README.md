@@ -19,5 +19,4 @@ LD_PRELOAD‑библиотека, перехватывающая `malloc`/`call
 
 ## Быстрый старт
 ```bash
-make
 LD_PRELOAD=$PWD/analyzer.so ./your_app
