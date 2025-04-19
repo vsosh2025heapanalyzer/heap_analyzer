@@ -1,0 +1,9 @@
+This product includes software developed by:
+
+* The GNU Project — GNU C Library (glibc) ‑ LGPL‑2.1‑only
+* The Open Source Initiative (OSI) — text of the MIT License
+* The Free Software Foundation — pthread library
+
+No modifications were made to the above third‑party components beyond
+ordinary use as shared objects.  Full license texts are available in the
+system package sources of your distribution.
