@@ -1,4 +1,4 @@
-# memcheck‑canary
+# heap_analyzer
 
 LD_PRELOAD‑библиотека, перехватывающая `malloc`/`calloc`/`realloc`/`free`
 и выявляющая **heap‑overflow**, **double‑free**, **use‑after‑free** и утечки
